@@ -1,0 +1,1 @@
+insert into students(name,u_q_id, u_a_id) values ('$name','5','$Resultans') ";
